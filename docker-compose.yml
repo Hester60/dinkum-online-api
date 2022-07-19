@@ -6,3 +6,14 @@ services:
       - "${API_PORT}:${API_PORT}"
     volumes:
       - .:/usr/src/api/
+    depends_on:
+      - dinkum-online-db
+  dinkum-online-db:
+    image: mongo
+    container_name: dinkum-online-db
+    ports:
+      - "27029:27017"
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
