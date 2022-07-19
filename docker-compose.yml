@@ -1,0 +1,8 @@
+services:
+  dinkum-online-api:
+    container_name: dinkum-online-api
+    build: .
+    ports:
+      - "${API_PORT}:${API_PORT}"
+    volumes:
+      - .:/usr/src/api/
