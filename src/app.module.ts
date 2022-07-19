@@ -1,20 +1,19 @@
-import { Module } from '@nestjs/common';
-import { AppController } from './app.controller';
-import { AppService } from './app.service';
-import { ConfigModule, ConfigService } from '@nestjs/config';
-import { CatchablesModule } from './modules/catchables/catchables.module';
-import { MongooseModule } from '@nestjs/mongoose';
+import {Module} from '@nestjs/common';
+import {AppController} from './app.controller';
+import {AppService} from './app.service';
+import {ConfigModule} from '@nestjs/config';
+import {TypeOrmModule} from "@nestjs/typeorm";
+import {CatchablesModule} from "./modules/catchables/catchables.module";
+import {typeOrmAsyncConfig} from "./config/orm.config";
 
 @Module({
-  imports: [ConfigModule.forRoot(), MongooseModule.forRootAsync({
-    imports: [ConfigModule],
-    useFactory: async (configService: ConfigService) => ({ 
-      uri: `mongodb://${configService.get<string>('MONGO_INITDB_ROOT_USERNAME')}:${configService.get<string>('MONGO_INITDB_ROOT_PASSWORD')}@dinkum-online-db:27029/dinkum_online` 
-    }),
-    inject: [ConfigService]
-  }), CatchablesModule],
-  controllers: [AppController],
-  providers: [AppService],
+    imports: [
+        ConfigModule.forRoot(),
+        TypeOrmModule.forRootAsync(typeOrmAsyncConfig),
+        CatchablesModule
+    ],
+    controllers: [AppController],
+    providers: [AppService],
 })
-export class AppModule {}
- 
+export class AppModule {
+}
