@@ -5,7 +5,7 @@ services:
     ports:
       - "${API_PORT}:${API_PORT}"
     volumes:
-      - .:/usr/src/api/
+      - .:/usr/public/api/
     depends_on:
       - dinkum-online-db
 
@@ -22,4 +22,5 @@ services:
       MONGO_INITDB_ROOT_PASSWORD: "root"
       MONGO_INITDB_DATABASE: ${MONGO_INITDB_DATABASE}
     volumes:
+      - ./dbdata/:/data/db
       - ./init-mongodb:/docker-entrypoint-initdb.d

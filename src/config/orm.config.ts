@@ -27,6 +27,6 @@ export const typeOrmConfig: TypeOrmModuleOptions = {
     migrationsTableName: "migrations",
     migrations: ["dist/migrations/*{.ts,.js}"],
     cli: {
-        "migrationsDir": "src/migrations"
+        "migrationsDir": "public/migrations"
     }
 }
