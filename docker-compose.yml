@@ -13,7 +13,7 @@ services:
     image: mongo
     container_name: dinkum-online-db
     ports:
-      - "27029:27017"
+      - "${DB_PORT}:27017"
     restart: always
     env_file:
       - .env
