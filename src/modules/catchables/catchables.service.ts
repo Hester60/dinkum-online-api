@@ -1,6 +1,6 @@
 import {Injectable} from '@nestjs/common';
 import {InjectRepository} from "@nestjs/typeorm";
-import {MongoRepository} from "typeorm";
+import {MongoRepository, Like} from "typeorm";
 import {Catchable} from "./catchables.entity";
 
 @Injectable()
