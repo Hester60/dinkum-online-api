@@ -5,7 +5,7 @@ services:
     ports:
       - "${API_PORT}:${API_PORT}"
     volumes:
-      - .:/usr/public/api/
+      - .:/usr/src/api/
     depends_on:
       - dinkum-online-db
 
