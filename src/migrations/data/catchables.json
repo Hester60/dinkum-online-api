@@ -4,7 +4,7 @@
     "description": "So small.",
     "habitats": ["southern oceans"],
     "timesFound": ["morning", "night"],
-    "season": ["autumn", "spring"],
+    "seasons": ["autumn", "spring"],
     "sellPrice": 4620,
     "preview": "Inv_Anchovy_Ocean.png",
     "type": "fish"
@@ -14,7 +14,7 @@
     "description": "Good fish. You're not Morwong about that.",
     "habitats": ["northern oceans", "southern oceans"],
     "timesFound": ["day", "morning", "night"],
-    "season": ["winter"],
+    "seasons": ["winter"],
     "sellPrice": 4320,
     "preview": "Inv_BandedMorwong_Ocean.png",
     "type": "fish"
@@ -24,7 +24,7 @@
     "description": "Beep. Beep. Grunt.",
     "habitats": ["rivers", "billabongs", "mangroves"],
     "timesFound": ["day", "morning", "night"],
-    "season": ["autumn", "spring", "winter", "summer"],
+    "seasons": ["autumn", "spring", "winter", "summer"],
     "sellPrice": 1290,
     "preview": "Inv_BarcooGrunter_River.png",
     "type": "fish"
@@ -34,7 +34,7 @@
     "description": "Oooooo.",
     "habitats": ["northern oceans"],
     "timesFound": ["night"],
-    "season": ["autumn", "spring", "summer"],
+    "seasons": ["autumn", "spring", "summer"],
     "sellPrice": 16000,
     "preview": "Inv_Barracuda_Ocean.png",
     "type": "fish"
@@ -44,7 +44,7 @@
     "description": "That's good eatin' eh?",
     "habitats": ["rivers"],
     "timesFound": ["night", "day", "morning"],
-    "season": ["autumn", "spring", "winter"],
+    "seasons": ["autumn", "spring", "winter"],
     "sellPrice": 8416,
     "preview": "Inv_Barramundi_River.png",
     "type": "fish"
@@ -54,7 +54,7 @@
     "description": "A black fish!",
     "habitats": ["billabongs", "rivers"],
     "timesFound": ["night", "day", "morning"],
-    "season": ["spring"],
+    "seasons": ["spring"],
     "sellPrice": 3908,
     "preview": "Inv_BlackFish_River.png",
     "type": "fish"
@@ -64,7 +64,7 @@
     "description": "Snap.",
     "habitats": ["northern oceans", "southern oceans"],
     "timesFound": ["day"],
-    "season": ["spring", "autumn"],
+    "seasons": ["spring", "autumn"],
     "sellPrice": 1992,
     "preview": "Inv_BlackAndWhiteSnapper_Ocean.png",
     "type": "fish"
@@ -74,7 +74,7 @@
     "description": "What is this?",
     "habitats": ["southern oceans"],
     "timesFound": ["night"],
-    "season": ["winter", "autumn"],
+    "seasons": ["winter", "autumn"],
     "sellPrice": 100,
     "preview": "Inv_BlobFish.png",
     "type": "fish"
@@ -84,7 +84,7 @@
     "description": "It's head is flat and it's eyes are on top.",
     "habitats": ["northern oceans", "southern oceans"],
     "timesFound": ["morning", "day"],
-    "season": ["summer", "autumn", "spring"],
+    "seasons": ["summer", "autumn", "spring"],
     "sellPrice": 998,
     "preview": "Inv_SpottedFlathead_Ocean.png",
     "type": "fish"
@@ -94,7 +94,7 @@
     "description": "An ocean fish that is blue.",
     "habitats": ["northern oceans", "southern oceans"],
     "timesFound": ["morning", "day", "night"],
-    "season": ["summer", "autumn", "spring", "winter"],
+    "seasons": ["summer", "autumn", "spring", "winter"],
     "sellPrice": 1560,
     "preview": "Inv_BlueFish_Ocean.png",
     "type": "fish"
@@ -104,7 +104,7 @@
     "description": "Cheeky fish.",
     "habitats": ["billabongs"],
     "timesFound": ["morning", "day", "night"],
-    "season": ["summer", "autumn", "spring", "winter"],
+    "seasons": ["summer", "autumn", "spring", "winter"],
     "sellPrice": 3308,
     "preview": "Inv_Bonytongue_Billabong.png",
     "type": "fish"
@@ -114,7 +114,7 @@
     "description": "Bit of a mean name.",
     "habitats": ["mangroves"],
     "timesFound": ["night"],
-    "season": ["summer", "autumn", "spring"],
+    "seasons": ["summer", "autumn", "spring"],
     "sellPrice": 2103,
     "preview": "Inv_BoofHeadCatFish_Mangroves.png",
     "type": "fish"
@@ -124,7 +124,7 @@
     "description": "Latin the day.",
     "habitats": ["rivers", "mangroves"],
     "timesFound": ["night", "day", "morning"],
-    "season": ["summer", "autumn", "spring", "winter"],
+    "seasons": ["summer", "autumn", "spring", "winter"],
     "sellPrice": 1996,
     "preview": "Inv_Carp_River.png",
     "type": "fish"
@@ -134,7 +134,7 @@
     "description": "Gross tail!",
     "habitats": ["mangroves"],
     "timesFound": ["night", "day", "morning"],
-    "season": ["summer", "autumn", "spring", "winter"],
+    "seasons": ["summer", "autumn", "spring", "winter"],
     "sellPrice": 1408,
     "preview": "Inv_EelTailCatfish_Mangroves.png",
     "type": "fish"
@@ -144,7 +144,7 @@
     "description": "This guy is a doctor.",
     "habitats": ["northern oceans"],
     "timesFound": ["day"],
-    "season": ["summer", "spring"],
+    "seasons": ["summer", "spring"],
     "sellPrice": 3996,
     "preview": "Inv_EyestripeSurgeonFish_Ocean.png",
     "type": "fish"
@@ -154,7 +154,7 @@
     "description": "Tiny and bright.",
     "habitats": ["rivers"],
     "timesFound": ["night", "day", "morning"],
-    "season": ["winter"],
+    "seasons": ["winter"],
     "sellPrice": 4808,
     "preview": "Inv_Galaxias_River.png",
     "type": "fish"
@@ -164,7 +164,7 @@
     "description": "It hates Mondays.",
     "habitats": ["northern oceans", "southern oceans"],
     "timesFound": ["night", "day", "morning"],
-    "season": ["winter", "spring"],
+    "seasons": ["winter", "spring"],
     "sellPrice": 2346,
     "preview": "Inv_Garfish_Ocean.png",
     "type": "fish"
@@ -174,7 +174,7 @@
     "description": "It's not a fish?",
     "habitats": ["southern oceans"],
     "timesFound": ["night", "day", "morning"],
-    "season": ["summer", "spring"],
+    "seasons": ["summer", "spring"],
     "sellPrice": 3200,
     "preview": "Inv_GoatFish_Ocean.png",
     "type": "fish"
@@ -184,7 +184,7 @@
     "description": "Gold belly on this Perch.",
     "habitats": ["rivers"],
     "timesFound": ["morning"],
-    "season": ["spring"],
+    "seasons": ["spring"],
     "sellPrice": 4384,
     "preview": "Inv_GoldenPerch_River.png",
     "type": "fish"
@@ -194,7 +194,7 @@
     "description": "What's a full grown gray look like?",
     "habitats": ["rivers", "billabongs"],
     "timesFound": ["day"],
-    "season": ["winter", "autumn"],
+    "seasons": ["winter", "autumn"],
     "sellPrice": 2508,
     "preview": "Inv_Grayling_River.png",
     "type": "fish"
@@ -204,7 +204,7 @@
     "description": "Welcome to the river. We've got perch.",
     "habitats": ["rivers", "billabongs"],
     "timesFound": ["day", "morning", "night"],
-    "season": ["winter", "autumn", "spring", "summer"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
     "sellPrice": 1200,
     "preview": "Inv_JunglePerch_River.png",
     "type": "fish"
@@ -214,7 +214,7 @@
     "description": "This is a Luderick-us fish.",
     "habitats": ["northern oceans"],
     "timesFound": ["day"],
-    "season": ["winter"],
+    "seasons": ["winter"],
     "sellPrice": 4160,
     "preview": "Inv_Luderick_Ocean.png",
     "type": "fish"
@@ -224,7 +224,7 @@
     "description": "Jack?",
     "habitats": ["mangroves"],
     "timesFound": ["night", "day", "morning"],
-    "season": ["winter", "spring", "summer", "autumn"],
+    "seasons": ["winter", "spring", "summer", "autumn"],
     "sellPrice": 3498,
     "preview": "Inv_MangroveJack_Mangroves.png",
     "type": "fish"
@@ -234,7 +234,7 @@
     "description": "Big fish, big nose.",
     "habitats": ["southern oceans"],
     "timesFound": ["day"],
-    "season": ["winter", "autumn"],
+    "seasons": ["winter", "autumn"],
     "sellPrice": 20200,
     "preview": "Inv_Marlin.png",
     "type": "fish"
@@ -244,7 +244,7 @@
     "description": "A massive fish!",
     "habitats": ["rivers"],
     "timesFound": ["morning"],
-    "season": ["winter", "spring"],
+    "seasons": ["winter", "spring"],
     "sellPrice": 10400,
     "preview": "Inv_MurrayCod_River.png",
     "type": "fish"
@@ -254,7 +254,7 @@
     "description": "A fresh water bass. Ain't rare.",
     "habitats": ["rivers", "mangroves"],
     "timesFound": ["night", "day", "morning"],
-    "season": ["summer", "spring"],
+    "seasons": ["summer", "spring"],
     "sellPrice": 2784,
     "preview": "Inv_Bass_River.png",
     "type": "fish"
@@ -264,7 +264,7 @@
     "description": "It might be Roman?",
     "habitats": ["billabongs"],
     "timesFound": ["night"],
-    "season": ["summer", "autumn"],
+    "seasons": ["summer", "autumn"],
     "sellPrice": 7616,
     "preview": "Inv_Saratoga_Billabong.png",
     "type": "fish"
@@ -274,7 +274,7 @@
     "description": "Like a water snake.",
     "habitats": ["billabongs"],
     "timesFound": ["night"],
-    "season": ["summer", "autumn", "winter", "spring"],
+    "seasons": ["summer", "autumn", "winter", "spring"],
     "sellPrice": 3008,
     "preview": "Inv_Eel.png",
     "type": "fish"
@@ -284,7 +284,7 @@
     "description": "Shiny.",
     "habitats": ["billabongs", "rivers"],
     "timesFound": ["night", "morning", "summer"],
-    "season": ["autumn", "winter"],
+    "seasons": ["autumn", "winter"],
     "sellPrice": 1708,
     "preview": "Inv_SilverPerch_River.png",
     "type": "fish"
@@ -294,7 +294,7 @@
     "description": "Is this a fish?",
     "habitats": ["northen oceans"],
     "timesFound": ["night"],
-    "season": ["autumn", "summer"],
+    "seasons": ["autumn", "summer"],
     "sellPrice": 3396,
     "preview": "Inv_Stingray_Ocean.png",
     "type": "fish"
@@ -304,7 +304,7 @@
     "description": "A billabong shark.",
     "habitats": ["billabongs"],
     "timesFound": ["night", "morning", "day"],
-    "season": ["autumn", "summer", "winter", "spring"],
+    "seasons": ["autumn", "summer", "winter", "spring"],
     "sellPrice": 3960,
     "preview": "Inv_Tarpon_Billabong.png",
     "type": "fish"
@@ -314,7 +314,7 @@
     "description": "I will call him Trevor.",
     "habitats": ["northen oceans"],
     "timesFound": ["night", "morning", "day"],
-    "season": ["autumn", "spring"],
+    "seasons": ["autumn", "spring"],
     "sellPrice": 7800,
     "preview": "Inv_Travalla_Ocean.png",
     "type": "fish"
@@ -324,7 +324,7 @@
     "description": "A massive fish!",
     "habitats": ["northen oceans", "southern oceans"],
     "timesFound": ["night", "morning"],
-    "season": ["autumn", "spring"],
+    "seasons": ["autumn", "spring"],
     "sellPrice": 24600,
     "preview": "Inv_YellowFinTuna_Ocean.png",
     "type": "fish"

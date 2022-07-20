@@ -1,12 +1,13 @@
-import {Entity, ObjectID, ObjectIdColumn, Column} from 'typeorm';
+import {Entity, ObjectIdColumn, Column} from 'typeorm';
 import {Habitat} from "../../common/types/habitat.type";
 import {TimeFound} from "../../common/types/timeFound.type";
 import {Season} from "../../common/types/season.type";
 import {CatchableType} from "../../common/types/catchableType.type";
+import {ObjectId} from "mongodb";
 
 @Entity('catchables')
 export class Catchable {
-    @ObjectIdColumn() _id: ObjectID;
+    @ObjectIdColumn() _id: ObjectId;
 
     @Column('string')
     name: string;

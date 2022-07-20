@@ -1,5 +1,4 @@
 import {Controller, Get, Req} from '@nestjs/common';
-import {Request} from "express";
 import {CatchablesService} from "./catchables.service";
 import {Catchable} from "./catchables.entity";
 
@@ -9,7 +8,7 @@ export class CatchablesController {
     }
 
     @Get()
-    async findAll(@Req() request: Request): Promise<Catchable[]> {
+    async findAll(): Promise<Catchable[]> {
         return await this.catchablesService.findAll();
     }
 }
