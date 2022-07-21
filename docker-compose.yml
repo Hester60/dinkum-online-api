@@ -1,7 +1,9 @@
 services:
   dinkum-online-api:
     container_name: dinkum-online-api
-    build: .
+    build:
+      context: .
+      target: ${NODE_ENV}
     ports:
       - "${API_PORT}:${API_PORT}"
     volumes:
