@@ -283,7 +283,7 @@
     "name": "silver perch",
     "description": "Shiny.",
     "habitats": ["billabongs", "rivers"],
-    "timesFound": ["night", "morning", "summer"],
+    "timesFound": ["night", "morning", "day"],
     "seasons": ["autumn", "winter"],
     "sellPrice": 1708,
     "preview": "Inv_SilverPerch_River.png",
