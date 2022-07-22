@@ -1,0 +1,402 @@
+[
+  {
+    "name": "bee",
+    "description": "A little honey maker. Where's the queen?",
+    "habitats": ["pine forests", "plains"],
+    "timesFound": ["day"],
+    "seasons": ["summer", "spring"],
+    "sellPrice": 680,
+    "preview": "Inv_Bee.png",
+    "type": "bug"
+  },
+  {
+    "name": "birdwing butterfly",
+    "description": "It's really rare and big!",
+    "habitats": ["tropics"],
+    "timesFound": ["morning"],
+    "seasons": ["autumn"],
+    "sellPrice": 4100,
+    "preview": "Inv_BirdWingButterFly.png",
+    "type": "bug"
+  },
+  {
+    "name": "black cricket",
+    "description": "Trying to hide, eh?",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["night"],
+    "seasons": ["autumn", "summer", "spring", "winter"],
+    "sellPrice": 980,
+    "preview": "Inv_BlackCricket.png",
+    "type": "bug"
+  },
+  {
+    "name": "blue moon butterfly",
+    "description": "These are everywhere.",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["morning", "day"],
+    "seasons": ["autumn", "summer", "spring", "winter"],
+    "sellPrice": 290,
+    "preview": "Inv_BlueMoonButterfly.png",
+    "type": "bug"
+  },
+  {
+    "name": "bogong moth",
+    "description": "Dusty and gross.",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["night"],
+    "seasons": ["autumn", "summer", "spring", "winter"],
+    "sellPrice": 260,
+    "preview": "Inv_Bogong_Moth.png",
+    "type": "bug"
+  },
+  {
+    "name": "centipede",
+    "description": "There are at least 4 legs here.",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["night"],
+    "seasons": ["autumn", "summer", "spring", "winter"],
+    "sellPrice": 2220,
+    "preview": "Inv_Centipede.png",
+    "type": "bug"
+  },
+  {
+    "name": "cockroach",
+    "description": "Yuck.",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["night"],
+    "seasons": ["autumn", "summer", "spring", "winter"],
+    "sellPrice": 154,
+    "preview": "Inv_Cockroach.png",
+    "type": "bug"
+  },
+  {
+    "name": "common blue tail",
+    "description": "A common dragonfly.",
+    "habitats": ["pine forests", "tropics"],
+    "timesFound": ["morning", "day"],
+    "seasons": ["autumn", "winter"],
+    "sellPrice": 772,
+    "preview": "Inv_CommonBlueTail.png",
+    "type": "bug"
+  },
+  {
+    "name": "desert scorpion",
+    "description": "8 legs. Friendlier than it looks.",
+    "habitats": ["desert"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["autumn", "winter"],
+    "sellPrice": 1212,
+    "preview": "Inv_DesertScorpion.png",
+    "type": "bug"
+  },
+  {
+    "name": "duskhawker dragonfly",
+    "description": "Coolest name ever.",
+    "habitats": ["pine forests", "tropics"],
+    "timesFound": ["morning", "day"],
+    "seasons": ["autumn", "spring"],
+    "sellPrice": 2350,
+    "preview": "Inv_DuskhawkerDragonFly.png",
+    "type": "bug"
+  },
+  {
+    "name": "emperor dragonfly",
+    "description": "It's huge!",
+    "habitats": ["plains", "tropics"],
+    "timesFound": ["day"],
+    "seasons": ["spring"],
+    "sellPrice": 4172,
+    "preview": "Inv_EmperorDragonFly.png",
+    "type": "bug"
+  },
+  {
+    "name": "fiddler beetle",
+    "description": "The smallest fiddle in the world.",
+    "habitats": ["bushlands", "tropics"],
+    "timesFound": ["morning"],
+    "seasons": ["autumn", "winter"],
+    "sellPrice": 2400,
+    "preview": "Inv_FiddlerBeetle.png",
+    "type": "bug"
+  },
+  {
+    "name": "field cricket",
+    "description": "So small. So loud.",
+    "habitats": ["bushlands", "plains"],
+    "timesFound": ["night"],
+    "seasons": ["autumn", "winter", "summer", "spring"],
+    "sellPrice": 1348,
+    "preview": "Inv_Field_Cricket.png",
+    "type": "bug"
+  },
+  {
+    "name": "firefly",
+    "description": "I cannot believe my eyes.",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["night"],
+    "seasons": ["autumn", "winter", "summer", "spring"],
+    "sellPrice": 860,
+    "preview": "Inv_Firefly.png",
+    "type": "bug"
+  },
+  {
+    "name": "fly",
+    "description": "A common fly.",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["day", "morning"],
+    "seasons": ["autumn", "winter", "summer", "spring"],
+    "sellPrice": 72,
+    "preview": "Inv_Fly.png",
+    "type": "bug"
+  },
+  {
+    "name": "funnel web spider",
+    "description": "Very poisonous. Ain't it cute?",
+    "habitats": ["bushlands"],
+    "timesFound": ["day", "night"],
+    "seasons": ["summer", "spring"],
+    "sellPrice": 1020,
+    "preview": "Inv_FunelWebSpider.png",
+    "type": "bug"
+  },
+  {
+    "name": "goliath stick",
+    "description": "It's a big stick!?",
+    "habitats": ["tropics", "spine forests"],
+    "timesFound": ["morning"],
+    "seasons": ["winter"],
+    "sellPrice": 3330,
+    "preview": "Inv_Goliath Stick.png",
+    "type": "bug"
+  },
+  {
+    "name": "grasshopper",
+    "description": "Jumpin' for joy.",
+    "habitats": ["tropics", "plains"],
+    "timesFound": ["day"],
+    "seasons": ["spring"],
+    "sellPrice": 1700,
+    "preview": "Inv_GrassHopper.png",
+    "type": "bug"
+  },
+  {
+    "name": "harlequin butterfly",
+    "description": "It's fluttering by, Mr. J.",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["day", "morning"],
+    "seasons": ["spring", "summer", "autumn", "winter"],
+    "sellPrice": 2121,
+    "preview": "Inv_HarlequinButterfly.png",
+    "type": "bug"
+  },
+  {
+    "name": "hercules moth",
+    "description": "This guy sounds tough.",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["night"],
+    "seasons": ["spring", "winter"],
+    "sellPrice": 3000,
+    "preview": "Inv_Hercules Moth.png",
+    "type": "bug"
+  },
+  {
+    "name": "huntsman",
+    "description": "It's scary, but nice.",
+    "habitats": ["desert", "bushlands"],
+    "timesFound": ["night", "day"],
+    "seasons": ["autumn", "winter"],
+    "sellPrice": 3552,
+    "preview": "Inv_HuntsmanSpider.png",
+    "type": "bug"
+  },
+  {
+    "name": "lacewing",
+    "description": "Gentle!",
+    "habitats": ["pine forests", "plains"],
+    "timesFound": ["day"],
+    "seasons": ["summer", "spring"],
+    "sellPrice": 1680,
+    "preview": "Inv_Lacewing.png",
+    "type": "bug"
+  },
+  {
+    "name": "ladybird",
+    "description": "Is this a bird or a bug?",
+    "habitats": ["pine forests", "plains"],
+    "timesFound": ["morning"],
+    "seasons": ["spring"],
+    "sellPrice": 1900,
+    "preview": "Inv_LadyBird.png",
+    "type": "bug"
+  },
+  {
+    "name": "largidae",
+    "description": "It's not that large.",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["day"],
+    "seasons": ["spring", "summer", "autumn", "winter"],
+    "sellPrice": 780,
+    "preview": "Inv_Largidae.png",
+    "type": "bug"
+  },
+  {
+    "name": "meadow katydid",
+    "description": "Jumpin' for joy.",
+    "habitats": ["plains"],
+    "timesFound": ["day", "morning"],
+    "seasons": ["spring", "autumn"],
+    "sellPrice": 900,
+    "preview": "Inv_MeadowKatydid.png",
+    "type": "bug"
+  },
+  {
+    "name": "monarch butterfly",
+    "description": "The queen of butterflies.",
+    "habitats": ["bushlands", "pine forests"],
+    "timesFound": ["day", "morning"],
+    "seasons": ["spring"],
+    "sellPrice": 3860,
+    "preview": "Inv_Monarch Butterfly.png",
+    "type": "bug"
+  },
+  {
+    "name": "paper wasp",
+    "description": "This thing kills spiders when it's hungry.",
+    "habitats": ["plains", "desert"],
+    "timesFound": ["day"],
+    "seasons": ["autumn"],
+    "sellPrice": 990,
+    "preview": "Inv_PaperWasp.png",
+    "type": "bug"
+  },
+  {
+    "name": "peacock spider",
+    "description": "A fancy little spider.",
+    "habitats": ["bushlands", "tropics"],
+    "timesFound": ["morning"],
+    "seasons": ["spring", "summer", "autumn", "winter"],
+    "sellPrice": 1792,
+    "preview": "Inv_PeacockSpider.png",
+    "type": "bug"
+  },
+  {
+    "name": "pygmyfly",
+    "description": "Small and red.",
+    "habitats": ["desert", "plains"],
+    "timesFound": ["day"],
+    "seasons": ["spring", "summer", "autumn", "winter"],
+    "sellPrice": 1672,
+    "preview": "Inv_Pygmyfly.png",
+    "type": "bug"
+  },
+  {
+    "name": "queen bee",
+    "description": "The boss bee. Can start a hive.",
+    "habitats": ["pine forests", "plains"],
+    "timesFound": ["morning"],
+    "seasons": ["spring", "summer"],
+    "sellPrice": 2300,
+    "preview": "Inv_QueenBee.png",
+    "type": "bug"
+  },
+  {
+    "name": "red back spider",
+    "description": "Very poisonous. Ain't it cute?",
+    "habitats": ["desert"],
+    "timesFound": ["day", "night"],
+    "seasons": ["spring", "summer", "autumn"],
+    "sellPrice": 1552,
+    "preview": "Inv_RedBackSpider.png",
+    "type": "bug"
+  },
+  {
+    "name": "rhinoceros beetle",
+    "description": "It can't fly.",
+    "habitats": ["bushlands", "pine forests"],
+    "timesFound": ["morning"],
+    "seasons": ["winter", "autumn"],
+    "sellPrice": 1930,
+    "preview": "Inv_RhinoBeetle.png",
+    "type": "bug"
+  },
+  {
+    "name": "scarlet jezebel butterfly",
+    "description": "It's red... I guess?",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["day"],
+    "seasons": ["spring", "summer", "autumn", "winter"],
+    "sellPrice": 790,
+    "preview": "Inv_Scarlet Jezebel.png",
+    "type": "bug"
+  },
+  {
+    "name": "stag beetle",
+    "description": "Look at the horns!",
+    "habitats": ["tropics", "bushlands"],
+    "timesFound": ["day"],
+    "seasons": ["spring"],
+    "sellPrice": 4100,
+    "preview": "Inv_Stag_Beetle.png",
+    "type": "bug"
+  },
+  {
+    "name": "stinkbuge",
+    "description": "It stinks!",
+    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "timesFound": ["day", "morning", "night"],
+    "seasons": ["autumn"],
+    "sellPrice": 300,
+    "preview": "Inv_Stinkbug.png",
+    "type": "bug"
+  },
+  {
+    "name": "swallow-tail butterfly",
+    "description": "It has a little tail.",
+    "habitats": ["tropics"],
+    "timesFound": ["day"],
+    "seasons": ["summer", "autumn"],
+    "sellPrice": 990,
+    "preview": "Inv_SwallowTailButterFly.png",
+    "type": "bug"
+  },
+  {
+    "name": "Tau Emerald Dragonfly",
+    "description": "Pretty!",
+    "habitats": ["plains", "bushlands"],
+    "timesFound": ["day"],
+    "seasons": ["summer", "autumn"],
+    "sellPrice": 2010,
+    "preview": "Inv_Tau Emerald.png",
+    "type": "bug"
+  },
+  {
+    "name": "tiger moth",
+    "description": "Careful, tiger!",
+    "habitats": ["bushlands", "plains"],
+    "timesFound": ["night"],
+    "seasons": ["autumn", "winter"],
+    "sellPrice": 1360,
+    "preview": "Inv_TigerMoth.png",
+    "type": "bug"
+  },
+  {
+    "name": "trogid",
+    "description": "It can't fly.",
+    "habitats": ["desert"],
+    "timesFound": ["night"],
+    "seasons": ["autumn", "spring"],
+    "sellPrice": 1400,
+    "preview": "Inv_Trogid.png",
+    "type": "bug"
+  },
+  {
+    "name": "ulysses butterfly",
+    "description": "Nice bug, bro.",
+    "habitats": ["bushlands"],
+    "timesFound": ["day", "morning"],
+    "seasons": ["summer", "spring"],
+    "sellPrice": 660,
+    "preview": "Inv_UlyssesButterfly.png",
+    "type": "bug"
+  }
+]
