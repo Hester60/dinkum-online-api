@@ -1,0 +1,192 @@
+[
+  {
+    "name": "bay bug",
+    "description": "A lobster without claws.",
+    "habitats": ["everywhere"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 4540,
+    "preview": "Inv_BayBug.png",
+    "type": "critter"
+  },
+  {
+    "name": "biscuit sea star",
+    "description": "Don't eat it.",
+    "habitats": ["southern oceans", "northern oceans"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 1200,
+    "preview": "Inv_BiscuitSeaStar.png",
+    "type": "critter"
+  },
+  {
+    "name": "black sea cucumber",
+    "description": "I bet it's chewy.",
+    "habitats": ["southern oceans", "northern oceans", "rivers"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn"],
+    "sellPrice": 12520,
+    "preview": "Inv_BlackSeaCucumber.png",
+    "type": "critter"
+  },
+  {
+    "name": "blue mussel",
+    "description": "Strong but sad.",
+    "habitats": ["southern oceans", "northern oceans"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 799,
+    "preview": "Inv_BlueMussel.png",
+    "type": "critter"
+  },
+  {
+    "name": "blue sea slug",
+    "description": "It's got wings!",
+    "habitats": ["southern oceans", "northern oceans"],
+    "timesFound": ["night"],
+    "seasons": ["winter"],
+    "sellPrice": 12540,
+    "preview": "Inv_BlueSeaSlug.png",
+    "type": "critter"
+  },
+  {
+    "name": "cushion sea star",
+    "description": "It's not that soft.",
+    "habitats": ["southern oceans", "northern oceans"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["spring"],
+    "sellPrice": 2540,
+    "preview": "Inv_Cushion Sea Star.png",
+    "type": "critter"
+  },
+  {
+    "name": "eleven-armed sea star",
+    "description": "That's a lot of arms!",
+    "habitats": ["southern oceans", "northern oceans"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["spring"],
+    "sellPrice": 8540,
+    "preview": "Inv_Eleven armed Sea Star.png",
+    "type": "critter"
+  },
+  {
+    "name": "fresh water mussel",
+    "description": "Makes you strong!",
+    "habitats": ["Rivers"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 800,
+    "preview": "Inv_FreshWaterMussel.png",
+    "type": "critter"
+  },
+  {
+    "name": "fresh water prawn",
+    "description": "Refreshing!",
+    "habitats": ["Rivers"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 1540,
+    "preview": "Inv_FreshWaterPrawn.png",
+    "type": "critter"
+  },
+  {
+    "name": "inland Crab",
+    "description": "Looks wet to me.",
+    "habitats": ["Rivers"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 740,
+    "preview": "Inv_InlandCrab.png",
+    "type": "critter"
+  },
+  {
+    "name": "king prawn",
+    "description": "What majesty!",
+    "habitats": ["southern oceans", "northern oceans"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 3540,
+    "preview": "Inv_KingPrawn.png",
+    "type": "critter"
+  },
+  {
+    "name": "mud crab",
+    "description": "A muddy crab.",
+    "habitats": ["Rivers"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["autumn", "summer"],
+    "sellPrice": 4540,
+    "preview": "Inv_MudCrab.png",
+    "type": "critter"
+  },
+  {
+    "name": "pink sea urchin",
+    "description": "Looks like bubble gum.",
+    "habitats": ["southern oceans", "northern oceans"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 1540,
+    "preview": "Inv_PinkSeaUrchin.png",
+    "type": "critter"
+  },
+  {
+    "name": "purple mottled crab",
+    "description": "Looks wet to me.",
+    "habitats": ["southern oceans", "northern oceans"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["summer"],
+    "sellPrice": 440,
+    "preview": "Inv_PurpleMottledCrab.png",
+    "type": "critter"
+  },
+  {
+    "name": "purple sea urchin",
+    "description": "Does it eat people?",
+    "habitats": ["southern oceans", "northern oceans"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["spring"],
+    "sellPrice": 8040,
+    "preview": "Inv_PurpleSeaUrchin.png",
+    "type": "critter"
+  },
+  {
+    "name": "spiny sea urchin",
+    "description": "It's spikey.",
+    "habitats": ["southern oceans", "northern oceans"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 640,
+    "preview": "Inv_SpinySeaUrchin.png",
+    "type": "critter"
+  },
+  {
+    "name": "tiger prawn",
+    "description": "Meow.",
+    "habitats": ["southern oceans", "northern oceans"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 1540,
+    "preview": "Inv_TigerPrawn.png",
+    "type": "critter"
+  },
+  {
+    "name": "white yabbie",
+    "description": "Is it scared?",
+    "habitats": ["rivers"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 980,
+    "preview": "Inv_WhiteYabbie.png",
+    "type": "critter"
+  },
+  {
+    "name": "yabbie",
+    "description": "Like a lobster but it's a yabbie instead.",
+    "habitats": ["everywhere"],
+    "timesFound": ["morning", "day", "night"],
+    "seasons": ["winter", "autumn", "spring", "summer"],
+    "sellPrice": 1899,
+    "preview": "Inv_Yabbie.png",
+    "type": "critter"
+  }
+]
