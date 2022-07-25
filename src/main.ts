@@ -5,10 +5,10 @@ import {join} from 'path';
 import fs from 'fs';
 
 async function bootstrap() {
-    const httpsOptions = {
+    const httpsOptions = process.env.NODE_ENV === 'prod' ? {
         key: fs.readFileSync('./cert/privkey.pem'),
         cert: fs.readFileSync('./cert/cert.pem'),
-    };
+    } : {};
 
     const app = await NestFactory.create<NestExpressApplication>(AppModule, {
         httpsOptions
