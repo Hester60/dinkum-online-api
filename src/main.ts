@@ -3,12 +3,13 @@ import {AppModule} from './app.module';
 import {NestExpressApplication} from "@nestjs/platform-express";
 import {join} from 'path';
 import fs from 'fs';
+import {HttpsOptions} from "@nestjs/common/interfaces/external/https-options.interface";
 
 async function bootstrap() {
-    const httpsOptions = process.env.NODE_ENV === 'prod' ? {
+    const httpsOptions: HttpsOptions = process.env.NODE_ENV === 'prod' ? {
         key: fs.readFileSync('./cert/privkey.pem'),
         cert: fs.readFileSync('./cert/cert.pem'),
-    } : {};
+    } : null;
 
     const app = await NestFactory.create<NestExpressApplication>(AppModule, {
         httpsOptions
