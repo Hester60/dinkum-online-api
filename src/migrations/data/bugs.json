@@ -22,7 +22,7 @@
   {
     "name": "black cricket",
     "description": "Trying to hide, eh?",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["everywhere"],
     "timesFound": ["night"],
     "seasons": ["autumn", "summer", "spring", "winter"],
     "sellPrice": 980,
@@ -32,7 +32,7 @@
   {
     "name": "blue moon butterfly",
     "description": "These are everywhere.",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["everywhere"],
     "timesFound": ["morning", "day"],
     "seasons": ["autumn", "summer", "spring", "winter"],
     "sellPrice": 290,
@@ -42,7 +42,7 @@
   {
     "name": "bogong moth",
     "description": "Dusty and gross.",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["everywhere"],
     "timesFound": ["night"],
     "seasons": ["autumn", "summer", "spring", "winter"],
     "sellPrice": 260,
@@ -52,7 +52,7 @@
   {
     "name": "centipede",
     "description": "There are at least 4 legs here.",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["everywhere"],
     "timesFound": ["night"],
     "seasons": ["autumn", "summer", "spring", "winter"],
     "sellPrice": 2220,
@@ -62,7 +62,7 @@
   {
     "name": "cockroach",
     "description": "Yuck.",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["everywhere"],
     "timesFound": ["night"],
     "seasons": ["autumn", "summer", "spring", "winter"],
     "sellPrice": 154,
@@ -132,7 +132,7 @@
   {
     "name": "firefly",
     "description": "I cannot believe my eyes.",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["everywhere"],
     "timesFound": ["night"],
     "seasons": ["autumn", "winter", "summer", "spring"],
     "sellPrice": 860,
@@ -142,7 +142,7 @@
   {
     "name": "fly",
     "description": "A common fly.",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["everywhere"],
     "timesFound": ["day", "morning"],
     "seasons": ["autumn", "winter", "summer", "spring"],
     "sellPrice": 72,
@@ -182,7 +182,7 @@
   {
     "name": "harlequin butterfly",
     "description": "It's fluttering by, Mr. J.",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["everywhere"],
     "timesFound": ["day", "morning"],
     "seasons": ["spring", "summer", "autumn", "winter"],
     "sellPrice": 2121,
@@ -192,7 +192,7 @@
   {
     "name": "hercules moth",
     "description": "This guy sounds tough.",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["everywhere"],
     "timesFound": ["night"],
     "seasons": ["spring", "winter"],
     "sellPrice": 3000,
@@ -232,7 +232,7 @@
   {
     "name": "largidae",
     "description": "It's not that large.",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["evrywhere"],
     "timesFound": ["day"],
     "seasons": ["spring", "summer", "autumn", "winter"],
     "sellPrice": 780,
@@ -322,7 +322,7 @@
   {
     "name": "scarlet jezebel butterfly",
     "description": "It's red... I guess?",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["everywhere"],
     "timesFound": ["day"],
     "seasons": ["spring", "summer", "autumn", "winter"],
     "sellPrice": 790,
@@ -342,7 +342,7 @@
   {
     "name": "stinkbuge",
     "description": "It stinks!",
-    "habitats": ["pine forests", "plains", "tropics", "desert", "bushlands"],
+    "habitats": ["everywhere"],
     "timesFound": ["day", "morning", "night"],
     "seasons": ["autumn"],
     "sellPrice": 300,

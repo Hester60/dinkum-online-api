@@ -9,6 +9,6 @@ export class AddCrittersCatchables1658654120498 implements MigrationInterface {
     }
 
     public async down(queryRunner: MongoQueryRunner): Promise<void> {
-        await queryRunner.clearTable('catchables');
+        await queryRunner.deleteMany('catchables', catchables);
     }
 }
