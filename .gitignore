@@ -1,6 +1,7 @@
 .idea
 .env
 /dbdata
+/cert
 
 # compiled output
 /dist
